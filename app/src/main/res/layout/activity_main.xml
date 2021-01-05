@@ -17,12 +17,12 @@
 
 
     <TextView
-        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="35dp"
+        android:fontFamily="cursive"
         android:text="My Restaurants"
         android:textColor="@color/white"
         android:textSize="40sp"
