@@ -24,7 +24,7 @@
         android:layout_marginTop="35dp"
         android:fontFamily="cursive"
         android:text="My Restaurants"
-        android:textColor="@color/white"
+        android:textColor="@color/colorPrimaryLight"
         android:textSize="40sp"
         android:textStyle="bold" />
 
